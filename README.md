@@ -1,4 +1,4 @@
-# AI-Powered Task Management App
+# AI-Powered Task Management App - Firebase
 
 A modern task management application built with React Native, Firebase, and OpenAI integration.
 
