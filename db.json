@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "ae5d",
+      "title": "Dear MindTales",
+      "description": "Enjoy this marvelous creation",
+      "status": "pending"
+    },
+    {
+      "id": "3d37",
+      "title": "Task Management App",
+      "description": "Easy! You are testing my patients more than my skills with such app 😩but enjoy it though and don’t forget to use the embedded AI! 😏👀",
+      "status": "completed"
+    }
+  ]
+}
